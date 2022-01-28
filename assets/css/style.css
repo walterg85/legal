@@ -1,0 +1,32 @@
+.bg-header {
+	background-image: url(https://livedemo00.template-help.com/wt_prod-17821/images/hero-header-bg.jpg);
+	background-size: cover;
+    background-position: center center;
+	padding: 220px 0 220px;
+}
+
+/*Menu*/
+.bg-navar-dark {
+	background: #151515;
+}
+
+.navbar .active {
+	color: #c49a6a !important;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #6b4d2a !important;
+}
+
+.texto-gold {
+	color:  #cca876 !important;
+}
+
+.hr-title {
+  width: 60px;
+  height: 2px !important;
+  background: #cca876;
+  fill: #cca876;
+  opacity: 1;
+}
