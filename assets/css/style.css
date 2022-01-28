@@ -66,3 +66,12 @@
     width: 70px;
     height: 70px;
 }
+
+.accordion-button:not(.collapsed) {
+    color: #c49a6a;
+    background-color: unset;
+}
+
+.accordion-button:focus {
+    box-shadow: 0 0 0 0.25rem rgb(204 168 118 / 0%);
+}
