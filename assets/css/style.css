@@ -30,3 +30,39 @@
   fill: #cca876;
   opacity: 1;
 }
+
+.btn-outline-gold {
+    color: #c49a6a;
+    border-color: #c49a6a;
+}
+
+.btn-gold {
+    color: #fff;
+    background-color: #c49a6a;
+    border-color: #b97f3d;
+}
+
+.bg-gray{
+	background-color: #f3f3f3;
+}
+
+.bg-gray .card {
+    border: none;
+    border-radius: .50rem;
+}
+
+.icon-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.icon-circle {
+    background-color: transparent;
+    color: #c49a6a;
+    flex-shrink: 0;
+    box-shadow: 0 0 0 3px #c49a6a;
+    width: 70px;
+    height: 70px;
+}
